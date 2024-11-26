@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/CoordinateConversion">
+        <file>res/openFile.png</file>
+        <file>res/saveFile.png</file>
+        <file>res/BLHXYZ.png</file>
+        <file>res/report.png</file>
+        <file>res/enlagre.png</file>
+        <file>res/reduce.png</file>
+        <file>res/spotsPicture.png</file>
+        <file>res/data.png</file>
+        <file>res/picture.png</file>
+        <file>res/help.png</file>
+        <file>res/coordinate.png</file>
+    </qresource>
+</RCC>
